@@ -24,6 +24,10 @@ Basically involves 5 steps:
 
 ## 💁‍ Created by:
 - [Ankita Kokkera](https://github.com/ankitasankars)
+	
+	## Cloning the Repo
+	
+	git clone https://github.com/ankitasankars/Twitter-Sentiment-Analysis.git
 
 
   
